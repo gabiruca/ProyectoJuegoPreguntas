@@ -1,7 +1,0 @@
-Seleccione los pilares del paradigma orientado a objetos;1;Abstracción,Encapsulamiento,Herencia,Polimorfismo;Abstracción,Encapsulamiento,Herencia;Abstracción,Encapsulamiento,Herencia,Mantenibilidad;Abstracción,Encapsulamiento,Reusabilidad,Polimorfismo
-Abstracción es:;2;Identificar las características escenciales;Enforcarse en el más pequeño detalle;Capacidad para comportarse diferente;Tener múltiples implementaciones
-Selecciones los pilares de POO presentes en una clase;2;Abstracción y Encapsulamiento;Abstracción y Herencia;Polimorfismo;Encapsulamiento y reusabilidad
-Cuál de los siguientes enunciados es FALSO respecto al constructor;2; tiene tipo de dato void;lleva el nombre de la clase;puede tener cualquier número de parámetros;crea e inicializa las variables del objeto
-Seleccione el enunciado verdadero respecto a sobrecarga de métodos;2;es la creación de varios métodos con el mismo nombre pero con diferente lista de tipos de parámetros;a creación de varios métodos con el mismo nombre pero con diferente tipo de retorno;es la creación de varios métodos que inician con nombre overload;es escribir un método con el igual nombre y parámetros pero cambiando el contenido
-La sección de memoria donde se almacenan los objetos es:;2;heap;stack;full;cache
-Sobreescritura es:;3;Proporcionar un código diferente a un método heredado;Escribir un nuevo método que inicie con nombre override_;Proceso por el cual una clase cambia sus atributos;Crear un constructor sin parámetros

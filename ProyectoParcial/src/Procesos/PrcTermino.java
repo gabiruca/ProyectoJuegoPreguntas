@@ -1,7 +1,7 @@
 
 package Procesos;
-import entidades.Juego;
-import entidades.Termino;
+import Entidades.Juego;
+import Entidades.Termino;
 /**
  *
  * @author Gabriela

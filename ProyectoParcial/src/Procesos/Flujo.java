@@ -2,7 +2,7 @@
 o metodo para seguir con la siguiente linea de codigo**/
 package Procesos;
 import static Procesos.PrcTermino.juego;
-import entidades.Juego;
+import Entidades.Juego;
 import proyectoprimerparcial.pkg2019ii.Menus;
 
 /**

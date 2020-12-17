@@ -46,7 +46,7 @@ public class PrcPreguntas {
 
     public void inicializarPreguntas() {
         File archivo;
-        archivo = new File("src/archivosPreguntas");
+        archivo = new File("src/archivoPreguntas");
         // if(archivo.isDirectory()){
         File[] lista = archivo.listFiles();
         for (int i = 0; i < lista.length; i++) {

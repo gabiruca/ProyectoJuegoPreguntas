@@ -42,7 +42,7 @@ public class Principal {
     public static void inicializar(){        
         BufferedReader csvReader = null;
         try {
-            String ruta = "src/archivosEstudiantes/CCPG1005-2-2019-2.csv"; //ruta del archivo que se va a leer
+            String ruta = "src/archivoEstudiantes/CCPG1005-2-2019-2.csv"; //ruta del archivo que se va a leer
             Materia materia=new Materia("CCPG1005","POO",3);//se instancia un objeto de la clase materia
             Materia.materias.add(materia);//se guarda la materia en el arreglo(atributo estatico de la clase) servira para aceder a las materias registradas
             Materia.materiasAct.add(materia);// la misma instancia se guarda en este arreglo de la clase materia(aqui estan toddas las materias activa), inicialmente todas estaran activas
